@@ -3,6 +3,7 @@ This is a game in which you count dots to train your brain.
 
 Please suggest new features, sumbit comments, bug fixes, code improvments.
 
-Reach me here: Leon.Vladimirov@gmail.com
+Reach me here: Leon.Vladimirov@gmail.com <br/>
 
-![alt text](https://raw.githubusercontent.com/Leon12345679/Count-Dots-/master/DemoUIDots.png)
+<img src="https://raw.githubusercontent.com/Leon12345679/Count-Dots-/master/DemoUIDots.png" alt="alt text" width="450" height="800">
+
