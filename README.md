@@ -1,4 +1,4 @@
-# Count-Dots-
+# Count Dots 
 This is a game in which you count dots to train your brain.
 
 Please suggest new features, submit comments, bug fixes, code improvments.
